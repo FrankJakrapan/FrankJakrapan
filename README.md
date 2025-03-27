@@ -8,7 +8,7 @@ Software Developer
 * ✉️  You can contact me at [jakrapanworkshop64@gmail.com](mailto:jakrapanworkshop64@gmail.com)
 * 🧠  I'm learning Laravel , Node.js , React
 
-### Skills
+### Basic Skills
 
 
 <p align="left">
